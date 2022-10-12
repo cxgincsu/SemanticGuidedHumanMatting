@@ -8,8 +8,9 @@
 <div align="center"><b>SGHM是一个鲁棒、高质量的自动人像抠图方法。我们将语义监督很好地融入到抠图模型中，能够依次输出粗糙分割Mask图和精细Alpha图。</b></div>
 
 <p align="center">
-  <a href="">Paper</a>
+  <a href="https://arxiv.org/abs/2210.05210">Paper</a>
 </p>
+
 
 ## Highlights
 
@@ -69,12 +70,15 @@
 If you use this code for your research, please consider to star this repo and cite our paper.
 
  ```latex
-@InProceedings{Chen_2022_ACCV,
-    author    = {Chen, XiangGuang and Zhu, Ye and Li, Yu and Fu, Bingtao and Sun, Lei and Shan, Ying and Liu, Shan},
-    title     = {Robust Human Matting via Semantic Guidance},
-    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
-    month     = {December},
-    year      = {2022}
+@misc{https://doi.org/10.48550/arxiv.2210.05210,
+  doi = {10.48550/ARXIV.2210.05210},
+  url = {https://arxiv.org/abs/2210.05210},
+  author = {Chen, Xiangguang and Zhu, Ye and Li, Yu and Fu, Bingtao and Sun, Lei and Shan, Ying and Liu, Shan},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Robust Human Matting via Semantic Guidance},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
  ```
 
