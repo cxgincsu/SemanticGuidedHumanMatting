@@ -70,15 +70,11 @@
 If you use this code for your research, please consider to star this repo and cite our paper.
 
  ```latex
-@misc{https://doi.org/10.48550/arxiv.2210.05210,
-  doi = {10.48550/ARXIV.2210.05210},
-  url = {https://arxiv.org/abs/2210.05210},
+@inproceedings{chen2022sghm,
   author = {Chen, Xiangguang and Zhu, Ye and Li, Yu and Fu, Bingtao and Sun, Lei and Shan, Ying and Liu, Shan},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
   title = {Robust Human Matting via Semantic Guidance},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+  booktitle={Proceedings of the Asian Conference on Computer Vision (ACCV)},
+  year={2022}
 }
  ```
 
